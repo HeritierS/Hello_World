@@ -5,4 +5,4 @@ I am present my first project where I will be learning basic coding skills that 
 *IT proffessionals
 *Etc
 #Description of 
-the project will be provided by all the team, meaning that this project will be several contributors
+the project will be provided by all the team, meaning that this project will be several contributorsnn
